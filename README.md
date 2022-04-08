@@ -3,6 +3,7 @@
 - Задание: mini-app - 10 баллов
 ## How to run
 Зайти в VK Mini App: 
+https://vk.com/app8131156
 
 Или запустить локально. Сервер будет развёрнут на http://localhost:3000
 ```
