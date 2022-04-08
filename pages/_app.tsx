@@ -10,7 +10,7 @@ const App = ({ Component, pageProps }: AppProps): JSX.Element => {
 		<html>
 			<Head>
 				<title>
-					vkma10
+					VK Mini Apps 10
 				</title>
 			</Head>
 			<Component {...pageProps} />
